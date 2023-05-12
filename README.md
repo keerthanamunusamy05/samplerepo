@@ -1,4 +1,4 @@
 # samplerepo
 created for testing purpose
-Hi!!
+Hello
 my first github repo
